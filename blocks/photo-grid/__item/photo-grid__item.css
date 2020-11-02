@@ -1,0 +1,8 @@
+.photo-grid__item {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.photo-grid__item:last-child {
+  margin-bottom: 0;
+}
