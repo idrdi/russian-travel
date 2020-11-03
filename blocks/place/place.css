@@ -1,3 +1,22 @@
 .place {
   margin-bottom: 50px;
 }
+
+.place:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .place {
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-bottom: 73px;
+    display: grid;
+    grid-template-columns: 340px 1fr;
+    grid-template-areas:
+      'title website'
+      'image text';
+    column-gap: 28px;
+    row-gap: 48px;
+  }
+}

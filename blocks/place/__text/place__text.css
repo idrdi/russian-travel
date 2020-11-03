@@ -7,3 +7,10 @@
   padding-left: 16px;
   padding-right: 16px;
 }
+
+@media (min-width: 768px) {
+  .place__text {
+    grid-area: text;
+    padding: 0;
+  }
+}
