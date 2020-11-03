@@ -8,3 +8,12 @@
   font-size: 32px;
   line-height: 35px;
 }
+
+@media (min-width: 768px) {
+  .cover__title {
+    padding-left: 104px;
+    padding-right: 104px;
+    font-size: 72px;
+    line-height: 76px;
+  }
+}

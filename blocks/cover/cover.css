@@ -12,3 +12,9 @@
   height: 0;
   padding-bottom: calc(200/320 * 100%);
 }
+
+@media (min-width: 768px) {
+  .cover {
+    margin-top: 90px;
+  }
+}
