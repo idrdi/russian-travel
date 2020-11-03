@@ -6,3 +6,10 @@
   line-height: 1;
   color: #FFFFFF;
 }
+
+@media (min-width: 768px) {
+  .footer__link {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
