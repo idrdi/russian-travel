@@ -1,4 +1,14 @@
 .cover {
   position: relative;
   margin-top: 66px;
+  display: flex;
+  background-image: url('../../../images/cover-trains.jpg');
+  background-size: cover;
+}
+
+.cover::after {
+  content: '';
+  width: 0;
+  height: 0;
+  padding-bottom: calc(200/320 * 100%);
 }
