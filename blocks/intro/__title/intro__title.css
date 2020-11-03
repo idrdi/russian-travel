@@ -6,3 +6,10 @@
   line-height: 1.09;
   color: #FFFFFF;
 }
+
+@media (min-width: 768px) {
+  .intro__title {
+    font-size: 54px;
+    line-height: 58px;
+  }
+}
