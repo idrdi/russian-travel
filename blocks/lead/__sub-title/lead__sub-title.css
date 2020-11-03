@@ -10,3 +10,14 @@
   text-align: center;
   color: #FFFFFF;
 }
+
+@media (min-width: 768px) {
+  .lead__sub-title {
+    margin-top: 32px;
+    margin-bottom: 56px;
+    padding-left: 64px;
+    padding-right: 64px;
+    font-size: 30px;
+    line-height: 1.2;
+  }
+}
