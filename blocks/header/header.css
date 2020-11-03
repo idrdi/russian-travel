@@ -1,5 +1,15 @@
 .header {
+  padding-left: 16px;
+  padding-right: 16px;
   padding-top: 16px;
   display: flex;
   justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 28px;
+  }
 }
