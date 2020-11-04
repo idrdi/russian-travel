@@ -17,3 +17,10 @@
     line-height: 76px;
   }
 }
+
+@media (min-width: 1024px) {
+  .cover__title {
+    padding-left: 232px;
+    padding-right: 232px;
+  }
+}

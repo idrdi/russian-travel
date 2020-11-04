@@ -18,3 +18,9 @@
     margin-top: 90px;
   }
 }
+
+@media (min-width: 1024px) {
+  .cover {
+    margin-top: 92px;
+  }
+}
