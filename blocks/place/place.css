@@ -21,3 +21,13 @@
     row-gap: 48px;
   }
 }
+
+@media (min-width: 1280px) {
+  .place {
+    padding-left: 148px;
+    padding-right: 148px;
+    grid-template-columns: 460px 1fr;
+    column-gap: 40px;
+    row-gap: 48px;
+  }
+}
