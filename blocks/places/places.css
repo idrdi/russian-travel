@@ -7,3 +7,9 @@
     margin-top: 88px;
   }
 }
+
+@media (min-width: 1024px) {
+  .places {
+    margin-top: 92px;
+  }
+}
