@@ -25,3 +25,10 @@
     padding-right: 332px;
   }
 }
+
+@media (min-width: 1280px) {
+  .cover__subtitle {
+    padding-left: 412px;
+    padding-right: 412px;
+  }
+}

@@ -24,3 +24,10 @@
     margin-top: 92px;
   }
 }
+
+@media (min-width: 1280px) {
+  .cover {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
