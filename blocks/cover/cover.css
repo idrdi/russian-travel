@@ -2,7 +2,7 @@
   position: relative;
   margin-top: 66px;
   display: flex;
-  background-image: url('../../../images/cover-trains.jpg');
+  background-image: url('./images/cover-trains.jpg');
   background-size: cover;
 }
 
