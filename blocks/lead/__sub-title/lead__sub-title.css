@@ -28,3 +28,11 @@
     padding-right: 144px;
   }
 }
+
+@media (min-width: 1280px) {
+  .lead__sub-title {
+    padding-left: 172px;
+    padding-right: 172px;
+    margin-bottom: 64px;
+  }
+}

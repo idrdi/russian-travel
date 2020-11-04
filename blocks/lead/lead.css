@@ -11,3 +11,11 @@
     padding-right: 48px;
   }
 }
+
+@media (min-width: 1280px) {
+  .lead {
+    margin-top: 56px;
+    padding-left: 148px;
+    padding-right: 148px;
+  }
+}
