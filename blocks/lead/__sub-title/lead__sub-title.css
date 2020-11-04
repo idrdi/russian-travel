@@ -21,3 +21,10 @@
     line-height: 1.2;
   }
 }
+
+@media (min-width: 1024px) {
+  .lead__sub-title {
+    padding-left: 144px;
+    padding-right: 144px;
+  }
+}

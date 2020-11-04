@@ -17,3 +17,9 @@
     padding-left: 24px;
   }
 }
+
+@media (min-width: 1024px) {
+  .lead__caption {
+    padding-left: 0;
+  }
+}
